@@ -6,11 +6,9 @@
 
 
 ## 🌐 Socials:
-<a href="https://linkedin.com/in/https://www.linkedin.com/company/103997061/admin/feed/posts/?feedtype=following" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/103997061/admin/feed/posts/?feedtype=following" height="30" width="40" /></a>
-
-<a href="https://instagram.com/https://www.instagram.com/datadrivenanalyst/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/datadrivenanalyst/" height="30" width="40" /></a>
-
-<a href="https://www.behance.net/https://www.behance.net/silvanaguardia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/silvanaguardia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/103997061/admin/feed/posts/?feedtype=following" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/103997061/admin/feed/posts/?feedtype=following" height="30" width="40" /></a>
+<a href="https://www.instagram.com/datadrivenanalyst/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/datadrivenanalyst/" height="30" width="40" /></a>
+<a href="https://www.behance.net/silvanaguardia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/silvanaguardia" height="30" width="40" /></a>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
